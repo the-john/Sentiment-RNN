@@ -2,9 +2,9 @@
 
 In this repository I have sample code that conducts sentiment analysis using a Recurrent Neural Network (RNN).
 
-I have a bunch of fake movie review, which you can get from here [reviews.txt](https://github.com/the-john/Sentiment-RNN/blob/master/data/reviews.txt).  I also have labels for those review that you can get from here [labels.txt](https://github.com/the-john/Sentiment-RNN/blob/master/data/labels.txt).
+I have a bunch of fake movie reviews, which you can get from here [reviews.txt](https://github.com/the-john/Sentiment-RNN/blob/master/data/reviews.txt).  I also have labels for those reviews that you can get from here [labels.txt](https://github.com/the-john/Sentiment-RNN/blob/master/data/labels.txt).
 
-In the sample code you will find:
+In the Jupyter Notebook [Sentiment_RNN_Solution.ipynb](https://github.com/the-john/Sentiment-RNN/blob/master/Sentiment_RNN_Solution.ipynb) you can find sample code that does the following:
 - load the data
 - visualize the loaded data
 - pre-process the data
